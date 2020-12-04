@@ -1,2 +1,2 @@
 # Fine-tuning-ML4SE-models
-This is some analysis for Jetbrain's Fine-tuning ML4SE models task
+This is the analysis for Jetbrain's Fine-tuning ML4SE models task
